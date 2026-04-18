@@ -1,0 +1,16 @@
+# Firebase-asetukset (sisältää API-avaimet)
+google-services.json
+
+# Paikalliset polut ja asetukset
+local.properties
+.gradle/
+.idea/
+build/
+
+# Allekirjoitusavaimet
+*.keystore
+*.jks
+
+# Android-kohtaiset väliaikaistiedostot
+capture/
+*.apk
